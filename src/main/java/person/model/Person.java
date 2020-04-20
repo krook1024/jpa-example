@@ -1,4 +1,4 @@
-package person;
+package person.model;
 
 
 import lombok.AllArgsConstructor;
