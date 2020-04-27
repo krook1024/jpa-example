@@ -19,7 +19,7 @@ public class Person {
     public static enum Gender {
         FEMALE, MALE;
     }
-
+https://github.com/krook1024/jpa-example
     @Id
     @GeneratedValue
     private Long id;
